@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2b836dd688a23364684e7beb62c7fb13
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shootState: {fileID: 11400000, guid: 8bab43bdf7635734a9d3e8e4ce3db166, type: 2}
+  - waitState: {fileID: 11400000, guid: 44ffeba328424dd499d17af0eac0cf51, type: 2}
+  - patrolState: {fileID: 11400000, guid: a78f5fa3fb84d8d478219013ed7ce4ec, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
